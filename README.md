@@ -2,9 +2,9 @@
 
 ### I'm Gonzalo, a full-stack developer from Mar del Plata, Argentina.
 
-- I'm currently living in Córdoba and pursuing an astronomy degree.
-- I've been working as a developer for the last 4 years and I'm always looking forward for new learning opportunities.
-- My main stack is javascript, featuring React.js and Node.js though I would love to learn Python and/or Go.
+- 🔭 I'm currently living in Córdoba and pursuing an astronomy degree.
+- 🌱 I've been working as a developer for the last 4 years and I'm always looking forward for new learning opportunities.
+- 💻 My main stack is Javascript, featuring React.js and Node.js though I would love to learn Python and/or Go.
 
 <!--
 **gblotta-xoor/gblotta-xoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

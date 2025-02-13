@@ -6,6 +6,8 @@
 - 🌱 I've been working as a developer for the last 4 years and I'm always looking forward for new learning opportunities.
 - 💻 My main stack is Javascript, featuring React.js and Node.js though I would love to learn Python and/or Go.
 
+#### My personal profile: https://github.com/blotin1993
+
 <!--
 **gblotta-xoor/gblotta-xoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
